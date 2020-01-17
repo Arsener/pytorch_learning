@@ -1,4 +1,5 @@
 *.jpg
+02-CNNs/data/
 
 .idea/
 *.pyc
